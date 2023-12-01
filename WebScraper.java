@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package dwrb.tools;
+package com.devicewhite;
 
 import java.io.BufferedReader;
 import java.io.IOException;
